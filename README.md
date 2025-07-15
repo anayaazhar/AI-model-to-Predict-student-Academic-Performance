@@ -40,11 +40,6 @@ STUDENT/
 
 **🚀 Getting Started**
 
-1. Clone the repository
-
-git clone https://github.com/your-username/student-study-tracker.git
-cd student-study-tracker
-
 2. Install Dependencies
 
 pip install -r requirements.txt
