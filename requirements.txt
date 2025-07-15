@@ -1,0 +1,14 @@
+
+# ------------------------------------------
+# ✅ 4. REQUIREMENTS FILE
+# ------------------------------------------
+# File: requirements.txt
+
+fastapi
+uvicorn
+streamlit
+pandas
+scikit-learn
+joblib
+sqlalchemy
+requests
